@@ -1,2 +1,2 @@
-spring:
-  application: test
+demo:
+  test: test
